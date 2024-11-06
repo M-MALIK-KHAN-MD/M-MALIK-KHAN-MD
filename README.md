@@ -1,3 +1,4 @@
+![1730874272619](https://github.com/user-attachments/assets/685abd2e-1da5-49f3-8914-4267a182abab)
 # _Raganork-multi-device# _Raganork-multi-device_
 ## _Multi_
 ## _Multi device whatsapp bot created with [Baileys](https://github.com/whiskeysockets/Baileys)_
