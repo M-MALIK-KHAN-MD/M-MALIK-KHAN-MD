@@ -13,9 +13,7 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 ### SETUP M-MALIK-KHAN-MD
 
 1. Scan the QR code
-    <br>
-<a href='https://jarvis.lokiser.xyz/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
+    https://qr-dnpk.onrender.com/
 #### DEPLOY TO HEROKU 
 
 1. If You don't have a account in Heroku. Create a account in heroku.
